@@ -1,2 +1,2 @@
-# EpiCurrents documentation.
+# EpiCurrents documentation
 Public documentation for the EpiCurrents project.
