@@ -2,7 +2,7 @@
 title: EpiCurrents
 description: A JavaScript library for visualizing neurophysiological signals in a web browser
 published: true
-date: 2023-09-24T13:00:12.808Z
+date: 2023-09-24T13:00:53.089Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T08:43:50.680Z
@@ -28,5 +28,5 @@ Development.
 
 ## Links
 
--   [Main project site](https://epicurrents.io)
--   [GitHub repository](https://github.com/epicurrents)
+- [Main project site](https://epicurrents.io)
+- [GitHub repository](https://github.com/epicurrents)
