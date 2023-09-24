@@ -1,8 +1,8 @@
 ---
 title: EpiCurrents
-description: A JavaScript library for visualizing neurophysiological signals in a web browser
+description: A JavaScript library for processing and visualizing neurophysiological signals in a web browser
 published: true
-date: 2023-09-24T13:00:53.089Z
+date: 2023-09-24T13:05:27.924Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T08:43:50.680Z
