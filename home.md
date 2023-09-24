@@ -2,7 +2,7 @@
 title: EpiCurrents
 description: A JavaScript library for processing and visualizing neurophysiological signals in a web browser
 published: true
-date: 2023-09-24T13:37:03.174Z
+date: 2023-09-24T13:38:02.445Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T08:43:50.680Z
@@ -31,7 +31,7 @@ From the basics of JavaScript applications to detailing the structure of this pr
 
 ## Development
 
-- **[Development guidelines](/en/development)**: Basic guidelines to be followed if taking part in developing the library.
+- **[Development guidelines](/en/development/guidelines)**: Basic guidelines to be followed if taking part in developing the library.
 - **[Main library development](/en/development/core-library)**: Developing the main (core) library.
 - **[Module development](/en/development/modules)**: Developing different modules for the library.
 
