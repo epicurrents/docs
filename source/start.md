@@ -12,7 +12,7 @@ dateCreated: 2023-09-24T14:05:37.301Z
 
 # EpiCurrents documentation
 
-Documentation on this site is categarized into `basics`, `getting started`, `usage`, and `development` categories. If you are completely new to using the library, starting with the `basics` is probably a good idea.
+Documentation on this site is categarized into `getting started` (this page), `basics`, `usage`, and `development` categories. If you are completely new to using the library, starting with the `basics` is probably a good idea.
 
 ## Basics
 From the basics of JavaScript applications to detailing the structure of this project and it's modular design.
@@ -22,12 +22,12 @@ From the basics of JavaScript applications to detailing the structure of this pr
 
 ## Getting started
 
-- **[Requirements](/requirements)**: What is required of the server and client running the library.
-- **[Installation](/installation)**: Different ways to incorporate the library onto your website.
+- **[Requirements](/basics/requirements)**: What is required of the server and client running the library.
+- **[Installation](/basics/installation)**: Different ways to incorporate the library onto your website.
 
 ## Usage
 
-- **[Basic usage](/usage/basic)**: Usage instructions in basic uses cases for the library.
+- **[Basic usage](/usage/index)**: Usage instructions in basic uses cases for the library.
 
 ## Development
 
