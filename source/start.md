@@ -1,25 +1,12 @@
----
-title: EpiCurrents
-description: A JavaScript library for processing and visualizing neurophysiological signals in a web browser
-published: true
-date: 2023-09-25T08:41:38.808Z
-tags: 
-editor: markdown
-dateCreated: 2023-09-24T14:05:37.301Z
----
-
 Getting started
 ===============
 
-Documentation on this site is categorized into `getting started` (this page), `basics`, `usage`, and `development` categories. If you are completely new to using the library, start by checking the application requirements below.
+Documentation on this site is categorized into `installation`, `usage`, and `development` categories. If you are completely new to using the library, start by checking the installation instructions below.
+
+## Installation
 
 - **[Requirements](/installation/requirements)**: What is required of the server and client running the library.
-
-## Basics
-From the basics of JavaScript applications to detailing the structure of this project and it's modular design.
-
-- **[JavaScript](/basics/javascript)**: What JavaScript applications are, their advantages and disadvantages.
-- **[Project structure](/basics/project-structure)**: How the library and its modules are structured, which parts are required and what is optional.
+- **[Project structure](/installation/project-structure)**: How the library and its modules are structured, which parts are required and what is optional.
 
 ## Usage
 

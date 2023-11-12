@@ -8,7 +8,6 @@ EpiCurrents's documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
    :hidden:
 
    start
@@ -19,6 +18,7 @@ EpiCurrents's documentation
    :hidden:
 
    installation/requirements
+   installation/project-structure
 
 .. toctree::
    :maxdepth: 2
@@ -26,7 +26,6 @@ EpiCurrents's documentation
    :hidden:
 
    basics/javascript
-   basics/project-structure
    
 .. toctree::
    :maxdepth: 2
@@ -45,6 +44,10 @@ EpiCurrents's documentation
 
 
 **Welcome to the EpiCurrents documentation!** Information is added to this site as the project and its modules are made available.
+
+Continue on to `getting started`_ or use the left-hand navigation to browse documentation contents.
+
+.. _getting started: /start
 
 Indices and tables
 ==================
