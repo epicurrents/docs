@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2023-09-24T14:05:37.301Z
 ---
 
-**Welcome to the EpiCurrents documentation!** Information is added to this site as the project and its modules are made available.
-
 Getting started
 ===============
 
