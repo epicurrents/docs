@@ -8,15 +8,36 @@ EpiCurrents's documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+   :hidden:
 
    start
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Basics
+   :hidden:
+
    basics/javascript
    basics/project-structure
-   installation/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Installation
+   :hidden:
+
    installation/requirements
-   usage/index
-   development/index
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Usage
+   :hidden:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Development
+   :hidden:
+
    development/guidelines
    development/core-library
    development/modules
