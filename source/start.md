@@ -13,7 +13,9 @@ dateCreated: 2023-09-24T14:05:37.301Z
 Getting started
 ===============
 
-Documentation on this site is categorized into `getting started` (this page), `basics`, `usage`, and `development` categories. If you are completely new to using the library, starting with the `basics` is probably a good idea.
+Documentation on this site is categorized into `getting started` (this page), `basics`, `usage`, and `development` categories. If you are completely new to using the library, start by checking the application requirements below.
+
+- **[Requirements](/installation/requirements)**: What is required of the server and client running the library.
 
 ## Basics
 From the basics of JavaScript applications to detailing the structure of this project and it's modular design.
@@ -21,16 +23,12 @@ From the basics of JavaScript applications to detailing the structure of this pr
 - **[JavaScript](/basics/javascript)**: What JavaScript applications are, their advantages and disadvantages.
 - **[Project structure](/basics/project-structure)**: How the library and its modules are structured, which parts are required and what is optional.
 
-## Getting started
-
-- **[Requirements](/installation/requirements)**: What is required of the server and client running the library.
-
 ## Usage
 
 ## Development
 
 - **[Development guidelines](/development/guidelines)**: Basic guidelines to be followed if taking part in developing the library.
-- **[Main library development](/development/core-library)**: Developing the main (core) library.
+- **[Core library development](/development/core-library)**: Developing the main (core) library.
 - **[Module development](/development/modules)**: Developing different modules for the library.
 
 ## Links
