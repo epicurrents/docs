@@ -47,7 +47,7 @@ EpiCurrents's documentation
 
 Continue on to `getting started`_ or use the left-hand navigation to browse documentation contents.
 
-.. _getting started: start
+.. _getting started: start.html
 
 Indices and tables
 ==================
