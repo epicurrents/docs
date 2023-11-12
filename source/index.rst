@@ -11,9 +11,15 @@ EpiCurrents's documentation
    :caption: Contents:
 
    start
+   basics/javascript
+   basics/project-structure
    installation/index
+   installation/requirements
    usage/index
    development/index
+   development/guidelines
+   development/core-library
+   development/modules
 
 
 

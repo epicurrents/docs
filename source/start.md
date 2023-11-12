@@ -10,7 +10,8 @@ dateCreated: 2023-09-24T14:05:37.301Z
 
 **Welcome to the EpiCurrents documentation!** Information is added to this site as the project and its modules are made available.
 
-# EpiCurrents
+EpiCurrents
+===========
 
 Documentation on this site is categorized into `getting started` (this page), `basics`, `usage`, and `development` categories. If you are completely new to using the library, starting with the `basics` is probably a good idea.
 

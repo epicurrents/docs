@@ -8,5 +8,10 @@ editor: markdown
 dateCreated: 2023-09-24T12:54:05.706Z
 ---
 
-# Installation
+Installation
+============
+
 Installation documentation.
+
+## Requirements
+See [installation requirements](/installation/requirements) for detailed information regarding application requirements on the server and client side.
