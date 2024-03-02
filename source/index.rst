@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-EpiCurrents's documentation
-===========================
+EpiCurrents documentation
+=========================
 
 .. toctree::
    :maxdepth: 2
@@ -43,7 +43,7 @@ EpiCurrents's documentation
 
 
 
-**Welcome to the EpiCurrents documentation!** Information is added to this site as the project and its modules are made available.
+**Welcome to EpiCurrents project documentation!** Information is added to this site as the project and its modules are made available.
 
 Continue on to `getting started`_ or use the left-hand navigation to browse documentation contents.
 
